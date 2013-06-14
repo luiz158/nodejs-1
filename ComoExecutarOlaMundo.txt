@@ -1,0 +1,9 @@
+Let´s Rock  !!! 
+
+Como faço para rodar o arquivo OlaMundo.js ???
+
+É muito simples copie o arquivo OlaMundo.js para seu Desktop e abra o prompt de comando do windows !!!
+Feito isto digite o comando: "cd desk*", isto levará você para trabalhar com os arquivos disponíveis na sua área de trabalho, portanto agora digite o comando: 
+"node OlaMundo.js" pronto seu Servidor http foi criado e agora é só digitar em seu navegador o endereço: localhost:8080 e você verá a mensagem "Ola Mundo". 
+
+Para interromper o servidor volte ao prompt de comando e digite o comando Ctrl + C duas vezes. 
