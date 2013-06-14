@@ -1,0 +1,6 @@
+Baixe o instalador da versão mais recente de acordo com seu S.O. no site http://nodejs.org/download/
+Abra o prompt de comando do windows e digite node 
+Digite "Ctrl + C" duas vezes para sair;
+Após isso instale alguns pacotes necessários através do comando abaixo:
+npm install -g express 
+após o término do download dos arquivos necessários seu computador estará pronto para você começar a desenvolver com nodejs.
